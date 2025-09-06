@@ -23,7 +23,7 @@ Make sure you have Node.js installed on your system (v18.x or higher is recommen
 
 1.  **Clone the repository or download the files.**
     ```bash
-    git clone git@github.com:noeroelama/wa-warmer.git
+    git clone https://github.com/noeroelama/wa-warmer.git
     cd wa-warmer
     ```
 
