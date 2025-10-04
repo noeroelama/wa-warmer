@@ -9,7 +9,7 @@ function randomShortDelay(min = 5, max = 15) {
   return Math.floor(Math.random() * (max - min + 1) + min) * 1000;
 }
 
-function randomLongDelay(minMinutes = 20, maxMinutes = 60) {
+function randomLongDelay(minMinutes = 5, maxMinutes = 10) {
   const minutes = Math.floor(
     Math.random() * (maxMinutes - minMinutes + 1) + minMinutes
   );
