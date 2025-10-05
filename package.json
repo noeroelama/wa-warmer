@@ -15,7 +15,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.20",
+    "@whiskeysockets/baileys": "7.0.0-rc.5",
     "pino": "^9.9.4",
     "qrcode-terminal": "^0.12.0"
   }
