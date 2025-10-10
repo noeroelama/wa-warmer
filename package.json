@@ -16,6 +16,7 @@
   "type": "module",
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.5",
+    "baileys": "^6.7.20",
     "pino": "^9.9.4",
     "qrcode-terminal": "^0.12.0"
   }
